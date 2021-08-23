@@ -1,0 +1,40 @@
+{
+    "window.zoomLevel": -1,
+    "eslint.autoFixOnSave": true,
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "eslint.options": {},
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.fontFamily": "\"SF Mono\", monospace",
+    "editor.fontWeight": "500",
+    "editor.tabSize": 2, 
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "workbench.colorTheme": "One Classic Dark+",
+    "terminal.integrated.fontFamily": "'SFMono Nerd Font'",
+    "breadcrumbs.enabled": true,
+    "editor.hover.enabled": false,
+    "editor.parameterHints.enabled": true,
+    "editor.fontSize": 14,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "workbench.sideBar.location": "left",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.largeFileOptimizations": false
+}
